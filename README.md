@@ -1,103 +1,46 @@
-# studyAndroid_v1
-juts for myself to study android, I will put all the android study demo into this proj.
+android开发的一些优秀博客与资料
+==========
+一些国内 Android 开发者信息，欢迎提交修改  
+>[国外部分开发者信息](见README2.md)  
+>[资料来源1](https://github.com/android-cn/android-dev-cn)  
+>[资料来源2](https://github.com/android-cn/android-dev-com)  
 
-这里汇总下学习Android的一些博客和资料。
-
-第一部分：优秀的国内开发者博客
-作者：张明云
-链接：https://www.zhihu.com/question/19775981/answer/28679919
-来源：知乎
-著作权归作者所有，转载请联系作者获得授权。
-
-国内开发者汇总：android-cn/android-dev-cn · GitHub
-邓凡平  Innost的专栏
-魏祝林  Android_Tutor的专栏
-Trinea  Trinea (Trinea) · GitHub
-Trinea
-halzhang    halzhang · GitHub
-HalZhang - 博客园
-wyouflf wyouflf (wyouflf) 路 GitHub
-wyouflf的个人空间
-张兴业  张兴业的博客
-代码家  daimajia (代码家) · GitHub
-代码家
-stormzhang  stormzhang (storm) · GitHub
-Storm's Blog
-郭霖    郭霖的专栏
-hanyonglu   Healtheon - 博客园
-闷瓜蛋子    FOOKWOOD
-傲慢的上校  傲慢的上校的专栏
-youxiachai  youxiachai (youxiachai) · GitHub
-dodola  dodola (dodola) · GitHub
-Issacw0ng   Issacw0ng (Issacw0ng) · GitHubiMID
-mcxiaoke    mcxiaoke (Zhang Xiaoke) · GitHub
-soarcn  soarcn (Liao Kai) 路 GitHub
-谦虚的天下  谦虚的天下 - 博客园
-李华明Himi  李华明Himi
-yangfuhai   yangfuhai · GitHub
-张国威  hellogv的专栏
-程序媛念茜  念茜的博客
-wangjinyu501    wangjinyu501的专栏
-ASCE1885    ASCE1885
-qinjuning   qinjuning、lets go
-秋风的博客 秋风的博客
-任玉刚  singwhatiwanna (singwhatiwanna) · GitHub
-任玉刚
-
-第二部分：国外优秀开发者博客
-作者：张明云
-链接：https://www.zhihu.com/question/19775981/answer/28679919
-来源：知乎
-著作权归作者所有，转载请联系作者获得授权。
-
-Google Android  Google · GitHub
-http://android-developers.blogspot.com/
-JakeWharton JakeWharton (Jake Wharton) 路 GitHub
-Jake Wharton
-Square  Square · GitHub
-Square Open Source
-Chris Banes chrisbanes (Chris Banes) 路 GitHub
-Chris Banes
-Jeremy Feinstein    jfeinstein10 (Jeremy Feinstein) 路 GitHub
-Jeremy Feinstein
-Sergey Tarasevich   nostra13 (Sergey Tarasevich) 路 GitHub
-http://nostra13android.blogspot.com/
-Koushik Dutta   koush (Koushik Dutta) 路 GitHub
-Koush
-Simon Vig   SimonVT (Simon Vig Therkildsen) 路 GitHub
-Random
-Cyril Mottier   cyrilmottier (Cyril Mottier) · GitHub
-Cyril Mottier
-Emil Sjolander  emilsjolander (Emil Sjรถlander) ยท GitHub
-http://emilsjolander.se/
-James Smith loopj (James Smith) 路 GitHub
-James Smith • loopj.com
-Manuel Peinado  ManuelPeinado 路 GitHub
-greenrobot  greenrobot 路 GitHub
-greenrobot
-Jeff Gilfelt    jgilfelt (Jeff Gilfelt) 路 GitHub
-http://jeffgilfelt.com
-Roman Nurik romannurik (Roman Nurik) 路 GitHub
-Roman Nurik
-Flavien Laurent flavienlaurent (Flavien Laurent) 路 GitHub
-Flavien Laurent
-Gabriele Mariotti   gabrielemariotti (Gabriele Mariotti) 路 GitHub
-http://gmariotti.blogspot.it
-sephiroth74 sephiroth74 (Alessandro Crugnola) 路 GitHub
-Sephiroth.it â programmer by pure chance
-Romain Guy  romainguy (Romain Guy) 路 GitHub
-Romain Guy
-Kevin Sawicki   kevinsawicki (Kevin Sawicki) 路 GitHub
-https://twitter.com/kevinsawicki
-Christopher Jenkins chrisjenx (Christopher Jenkins) 路 GitHub
-Christopher Jenkins
-Javier Pardo    jpardogo (Javier Pardo de Santayana G贸mez) 路 GitHub
-JPARDOGO
-Chet Haase  http://graphics-geek.blogspot.com/
-Matthias K?ppler    mttkay (Matthias K채ppler) 쨌 GitHub
-mttkay here.
-Daniel Lew  dlew (Daniel Lew) 路 GitHub
-Dan Lew Codes
-
-
-
+昵称 | GitHub | 博客 | 介绍
+:------------- | :------------- | :------------- | :-------------
+罗升阳 | | [Luoshengyang@csdn](http://blog.csdn.net/Luoshengyang) | Android 源码分析
+邓凡平 | | [innost@csdn](http://blog.csdn.net/innost) | 阿拉神农
+魏祝林 | | [android_tutor@csdn](http://blog.csdn.net/android_tutor) |
+Trinea | [trinea ](https://github.com/trinea) | [trinea.cn](http://www.trinea.cn/) | 性能优化 开源项目
+halzhang | [halzhang ](https://github.com/halzhang) | [halzhang@cnblogs](http://www.cnblogs.com/halzhang) | StartNews作者
+wyouflf | [wyouflf ](https://github.com/wyouflf) | [wyouflf@oschina](http://my.oschina.net/u/1171837) | xUtils作者
+张兴业 | | [xyz_lmn@csdn](http://blog.csdn.net/xyz_lmn) |
+代码家 | [daimajia ](https://github.com/daimajia) | [daimajia.com](http://blog.daimajia.com/) |
+stormzhang | [stormzhang ](https://github.com/stormzhang) | [stormzhang](http://stormzhang.github.io/) | 9Gag作者 AndroidDesign Love开源
+郭霖 | | [guolin_blog@csdn](http://blog.csdn.net/guolin_blog) |
+hanyonglu | | [hanyonglu@cnblogs](http://www.cnblogs.com/hanyonglu) | Android动画与推送
+闷瓜蛋子 | | [fookwood.com](http://www.fookwood.com)  | 云OS开发
+傲慢的上校 | | [lilu_leo@csdn](http://blog.csdn.net/lilu_leo) |  
+youxiachai | [youxiachai ](https://github.com/youxiachai) | |
+dodola | [dodola ](https://github.com/dodola) | |
+Issacw0ng | [Issacw0ng ](https://github.com/Issacw0ng) | [imid.me](http://imid.me) |
+mcxiaoke | [mcxiaoke ](https://github.com/mcxiaoke) | |
+soarcn | [soarcn ](https://github.com/soarcn) | |
+谦虚的天下 | | [qianxudetianxia@cnblogs](http://www.cnblogs.com/qianxudetianxia) |
+李华明Himi | | [xiaominghimi@csdn](http://blog.csdn.net/xiaominghimi) |
+yangfuhai | [yangfuhai ](https://github.com/yangfuhai) | | afinal 作者
+张国威 | | [hellogv@csdn](http://blog.csdn.net/hellogv) |  
+程序媛念茜 | | [yiyaaixuexi@csdn](http://blog.csdn.net/yiyaaixuexi) |  
+wangjinyu501 | | [wangjinyu501@csdn](http://blog.csdn.net/wangjinyu501) |  
+ASCE1885 | | [asce1885@csdn](http://blog.csdn.net/asce1885) |
+qinjuning | | [qinjuning@csdn](http://blog.csdn.net/qinjuning) |   
+秋风的博客 | | [tangcheng_ok@csdn](http://blog.csdn.net/tangcheng_ok) |
+任玉刚 | [singwhatiwanna ](https://github.com/singwhatiwanna) | [singwhatiwanna@csdn](http://blog.csdn.net/singwhatiwanna) |
+农民伯伯 | [over140 ](https://github.com/over140) | [over140](http://over140.cnblogs.com) | [开源播放器](https://github.com/over140/OPlayer) Android 中文 api
+李宏伟 | [lihw ](https://github.com/lihw) | [paper3d.net](http://www.paper3d.net) | [Paper3D](https://github.com/lihw/FutureInterface)
+代震军 | [daizhenjun ](https://github.com/daizhenjun) | [daizhj@cnblogs](http://www.cnblogs.com/daizhj) | [ImageFilter库](https://github.com/daizhenjun/ImageFilterForAndroid)
+sunzn | | [sunzn@cnblogs](http://www.cnblogs.com/sunzn) | Android 基础开发知识
+pedant | [pedant ](https://github.com/pedant) | [书呆子精神院](http://pedant.cn/) | [SweetAlertDialog](https://github.com/pedant/sweet-alert-dialog)、安全与逆向
+androidyue | [androidyue](https://github.com/androidyue) | [技术小黑屋](http://droidyue.com/) | Android，Java研究
+Hongyang | [hongyangAndroid](https://github.com/hongyangAndroid)| [Hongyang](http://blog.csdn.net/lmj623565791)| Android
+大头鬼 | [Bruce Lee](https://github.com/lzyzsd)| [大头鬼Bruce](http://blog.csdn.net/lzyzsd/)| Android, RxJava
+markzhai | [markzhai](https://github.com/markzhai)| [markzhai的博客](http://blog.zhaiyifan.cn/)| Android
