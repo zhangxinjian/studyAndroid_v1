@@ -19,6 +19,7 @@ public class QuizActivity extends AppCompatActivity {
     private Button mFalseButton;
     private Button mNextButton;
     private TextView mQuestionTextView;
+    private static final String KEY_INDEX = "index";
 
     //一个以类名为值的TAG常量，用于日志参数输入
     private static final String TAG = "QuizActivity";
@@ -115,8 +116,21 @@ public class QuizActivity extends AppCompatActivity {
             }
         });
 
+        //检测是否onSaveInstanceState的值有更新，如有，则将键值KEY_INDEX赋值给mCurrentIndex
+        if (savedInstanceState != null) {
+            mCurrentIndex = savedInstanceState.getInt(KEY_INDEX, 0);
+        }
+
         updateQuestion();
 
+    }
+
+    //为保存之前的数据，实现覆盖onSaveInstanceState（）的方法
+    @Override
+    public void onSaveInstanceState(Bundle saveInstanceState) {
+        super.onSaveInstanceState(saveInstanceState);
+        Log.i(TAG, "onSaveInstanceState");
+        saveInstanceState.putInt(KEY_INDEX, mCurrentIndex);
     }
 
     @Override
